@@ -33,7 +33,7 @@ ______________________________________
 **Volunteer Experience:**
 
 Formula 1 Qatar Airways Azerbaijan Grand Prix 2024| Uniform Team| August 2024-September 2024
-COP 29 |Audio-Visual Team | November 2024-November 2024
+COP29 (the 29th Conference of the Parties)|Audio-Visual Team | November 2024-November 2024
 WMF World Cup Baku 2025| Sporting Team| May 2025-June 2025
 Formula 1 Qatar Airways Azerbaijan Grand Prix 2025| SPS Team(CHA)| September 2025
 
