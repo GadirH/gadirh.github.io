@@ -1,9 +1,38 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
+
+<style>
+body {
+    background-color: #f7f7f7; /* whole page background */
+}
+
+.site-header {
+    background-color: #ffffff; /* navigation/header */
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.site-footer {
+    background-color: #ffffff; /* footer */
+    border-top: 1px solid #e0e0e0;
+}
+
+.page-content {
+    background-color: #f7f7f7; /* main content area */
+}
+
+</style>
+
+<img src="/images/profile.jpg" 
+     alt="Profile photo" 
+     align="right" 
+     width="250" 
+     height="250" 
+     style="border-radius:20%; 
+            object-fit:cover; 
+            margin-left:20px; 
+            border:4px solid #dcdcdc;">
+
 Hello, my name is **Gadir Hasanov**.
 
 I’m a student who’s passionate about creating meaningful work, exploring new ideas, and constantly learning new skills. I enjoy taking on projects that challenge me to grow, think differently, and refine what I’m capable of.
