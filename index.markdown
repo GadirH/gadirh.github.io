@@ -26,11 +26,11 @@ body {
 <img src="/images/profile.jpg" 
      alt="Profile photo" 
      align="right" 
-     width="250" 
-     height="250" 
+     width="225" 
+     height="225" 
      style="border-radius:20%; 
             object-fit:cover; 
-            margin-left:20px; 
+            margin-left:15px; 
             border:4px solid #dcdcdc;">
 
 Hello, my name is **Gadir Hasanov**.
